@@ -1,1 +1,1 @@
-My own project
+My own project is great
